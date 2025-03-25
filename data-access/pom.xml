@@ -11,8 +11,8 @@
     <groupId>com.digital.common</groupId>
     <artifactId>data-access</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>data-access</name>
-    <description>data-access</description>
+    <name>domain-digital-data-access</name>
+    <description>domain-digital-data-access</description>
     <url/>
     <licenses>
         <license/>

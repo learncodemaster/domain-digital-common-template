@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.digital.common</groupId>
-    <artifactId>core</artifactId>
+    <artifactId>domain-digital-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>core</name>
-    <description>core</description>
+    <name>domain-digital-core</name>
+    <description>domain-digital-core</description>
     <packaging>pom</packaging>
     <url/>
     <licenses>

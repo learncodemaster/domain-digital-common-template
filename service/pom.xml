@@ -11,8 +11,8 @@
     <groupId>com.digital.common</groupId>
     <artifactId>service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>service</name>
-    <description>service</description>
+    <name>domain-digital-service</name>
+    <description>domain-digital-service</description>
     <packaging>pom</packaging>
     <url/>
     <licenses>
