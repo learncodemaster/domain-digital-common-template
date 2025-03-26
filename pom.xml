@@ -10,29 +10,14 @@
         <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.digital.common</groupId>
-    <artifactId>domain-digital-common</artifactId>
+    <groupId>com.digital.common-template</groupId>
+    <artifactId>domain-digital-common-template</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
 
-    <name>domain-digital-common</name>
-    <description>domain-digital-common</description>
-    <url/>
-    <licenses>
-        <license/>
-    </licenses>
-
-    <developers>
-        <developer/>
-    </developers>
-
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
+    <name>domain-digital-common-template</name>
+    <description>domain-digital-common-template</description>
 
     <modules>
         <module>api</module>
@@ -122,26 +107,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.digital.common</groupId>
-            <artifactId>data-access</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.digital.common</groupId>
-            <artifactId>service</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.digital.common</groupId>
-            <artifactId>core</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.digital.common</groupId>
-            <artifactId>api</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
